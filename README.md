@@ -4,7 +4,7 @@ Welcome to the Razorpay Clone web template! This is a sophisticated, interactive
 
 The Razorpay Clone web template provides an engaging way for users to experience the look and feel of a modern payment gateway interface. The template is designed to be user-friendly and visually appealing, ensuring an enjoyable experience for users.
 
-# Live Demo : 
+# Live Demo : https://codelikeamachine.github.io/Day48of50-Razopay-Clone-Website-Template/
 
 # Join Me :
 Github: https://github.com/Codelikeamachine
@@ -35,18 +35,11 @@ HTML Structure
 The HTML file includes the main layout with sections for the navigation bar, payment form, transaction history, and account settings. Each section is clearly marked with appropriate classes and IDs for easy styling and functionality.
 
 CSS Styling
-The CSS file (style.css) handles the layout and styling of the template, including responsiveness for different screen sizes. Key classes and IDs include:
-
+The layout and styling of the template, including responsiveness for different screen sizes. Key classes and IDs include:
 .navbar for the header.
 .payment-form for the payment form section.
 .transaction-history for the transaction history section.
 .account-settings for the account settings section.
-JavaScript Functionality
-The JavaScript file (app.js) includes functionality for:
-
-User Interaction: Detecting user actions like button clicks and form submissions.
-Dynamic Elements: Managing the visibility and content of modals and forms.
-Form Validation: Ensuring that user inputs are valid before submission.
 # Acknowledgements :
 This project is part of my Day 48 of 50 web development projects challenge. Special thanks to everyone who has supported me throughout this journey and to the creators of the tools and technologies used in this project.
 
